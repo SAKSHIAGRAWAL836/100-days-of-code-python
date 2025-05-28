@@ -21,5 +21,20 @@
 Welcome to the tip calculator!
 What was the total bill? $100
 What percentage tip would you like to give? 12
-How many people to split the bill? 5
+How many people are to split the bill? 5
 Each person should pay: 22.4
+```
+
+---
+
+## 📚 What I Learned
+
+✍️ Taking input from users using input()
+
+🔢 Type casting: converting strings to int and float
+
+📐 Basic math operations and calculating percentages
+
+🧮 Using round() to limit decimals for clean output
+
+💬 f-strings in Python for readable and formatted printing
