@@ -26,6 +26,7 @@ scissors = '''
       (____)
 ---.__(___)
 '''
+
 game_image = [rock, paper, scissors]
 
 player = int(input("What do you choose? Type 0 for rock, 1 for paper and 2 for scissors"))
@@ -48,3 +49,4 @@ elif computer > player:
 elif player > computer:
     print("you win!")
 
+print("Thank you for playing.Hope it was fun!")
