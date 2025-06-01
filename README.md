@@ -21,14 +21,14 @@ This isn’t just about coding — it’s about **consistency**, **learning**, a
 
 ## 📔 Daily Progress
 
-| Day | Project Name            | 📁 Folder                    | ⭐ Status |
-|-----|--------------------------|------------------------------|-----------|
-| 1   | 🎸 Band Name Generator    | day1/README.md  | ✅ Done    |
-| 2   | 💵 Tip Calculator         | `day02-tip-calculator`day2/README.md      | ✅ Done    |
-| 3   | 🏝️ Treasure Island Game  | `day03-treasure-island`      | ✅ Done    |
-| 4   | ✊ Rock Paper Scissors    | `day04-rock-paper-scissors`  | ✅ Done    |
-| 5   | 🔐 Password Generator     | (./day1)  | ✅ Done    |
-| 6   | ⏳ Coming Soon            | —                            | 🔒 Locked  |
+| Day | Project Name             | 📁 Folder                                           | ⭐ Status |
+|-----|--------------------------|-----------------------------------------------------|-----------|
+| 1   | 🎸 Band Name Generator   | `day01-band-name-generator`[link](day1/README.md)   | ✅ Done    |
+| 2   | 💵 Tip Calculator        | `day02-tip-calculator`[link](day2/README.md)        | ✅ Done    |
+| 3   | 🏝️ Treasure Island Game  | `day03-treasure-island`[link](day3/README.md)       | ✅ Done    |
+| 4   | ✊ Rock Paper Scissors   | `day04-rock-paper-scissors`[link](day4/README.md)   | ✅ Done    |
+| 5   | 🔐 Password Generator    | `day05-password-generator`[link](Day5/README.md)    | ✅ Done    |
+| 6   | ⏳ Coming Soon           | —                                                   | 🔒 Locked  |
 
 ---
 
