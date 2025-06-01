@@ -21,7 +21,8 @@ This tiny Python program gives you a quirky band name by blending your *hometown
 ---
 
 ## 💡 Sample Output
-
+python 
+```
 Welcome to the Band Name Generator.
 What's the name of the city you grew up in?
 
@@ -29,7 +30,7 @@ Indore
 What's your pet's name?
 Muffin
 Your band name could be: Indore Muffin
-
+```
 
 ---
 
