@@ -1,30 +1,34 @@
-<h1 align="center">🌸 100 Days of Code – Python</h1>
-<p align="center">by <a href="https://github.com/sakshiagrawal836">@sakshiagrawal836</a></p>
-<p align="center"><em>I code in Python because I can’t C 🐍</em></p>
+# 🌸 100 Days of Code – Python  
+by [@sakshiagrawal836](https://github.com/SAKSHIAGRAWAL836)
+
+> I code in Python because I can’t C 🐍
 
 ---
 
-<div align="center">
-  <img src="banner.png" width="85%" alt="100 Days of Code Banner"/>
-</div>
+## 🖼️ 100 Days of Code Banner  
+![100 Days of Code Python](https://imgur.com/your-banner-link) <!-- Replace with your actual banner URL if you have one -->
 
 ---
 
 ## ✨ What’s This?
 
 A personal commitment to write Python code every day for 100 days.  
-Each day = a new mini project or challenge.  
+Each day = a new **mini project or challenge**.
+
 This isn’t just about coding — it’s about **consistency**, **learning**, and **aesthetic joy** ✨
 
 ---
 
 ## 📔 Daily Progress
 
-| Day | Project Name           | 📁 Folder                             | ⭐ Status |
-|-----|------------------------|---------------------------------------|----------|
-| 1   | 🎸 Band Name Generator | [`day01-band-name-generator`](./day01-band-name-generator) | ✅ Done |
-| 2   | 💵 Tip Calculator      | [`day02-tip-calculator`](./day02-tip-calculator)           | ✅ Done |
-| 3   | ⏳ Coming Soon         | —                                     | 🔒 Locked |
+| Day | Project Name            | 📁 Folder                    | ⭐ Status |
+|-----|--------------------------|------------------------------|-----------|
+| 1   | 🎸 Band Name Generator    | day1/README.md  | ✅ Done    |
+| 2   | 💵 Tip Calculator         | `day02-tip-calculator`       | ✅ Done    |
+| 3   | 🏝️ Treasure Island Game  | `day03-treasure-island`      | ✅ Done    |
+| 4   | ✊ Rock Paper Scissors    | `day04-rock-paper-scissors`  | ✅ Done    |
+| 5   | 🔐 Password Generator     | (./day1)  | ✅ Done    |
+| 6   | ⏳ Coming Soon            | —                            | 🔒 Locked  |
 
 ---
 
@@ -32,8 +36,8 @@ This isn’t just about coding — it’s about **consistency**, **learning**, a
 
 - 🐍 Practice Python every day  
 - 🎨 Add personal flair (banners, visuals, clean code)  
-- 🧘 Make learning *relaxing*, not rushed  
-- 🧠 Focus on concepts, not just output
+- 🧘 Make learning **relaxing**, not rushed  
+- 🧠 Focus on **concepts**, not just output  
 
 ---
 
@@ -42,15 +46,18 @@ This isn’t just about coding — it’s about **consistency**, **learning**, a
 - Python 3.x  
 - Git & GitHub  
 - Markdown (for docs)  
-- Some ✨ aesthetic design tools for banners
+- Some ✨ aesthetic design tools for visuals  
 
 ---
 
 ## 💌 Note to Self
 
-> *“Code a little. Code daily. Let it add up beautifully.”*  
-> – Sakshi
+> “Code a little. Code daily. Let it add up beautifully.”  
+> — **Sakshi**
 
 ---
 
-<p align="center">💖 Follow my journey & feel free to clone, star, or fork!</p>
+## 🤝 Let’s Connect
+
+📍 Follow my journey & feel free to ⭐️ star, 👯‍♀️ fork, or 🛠️ clone the repo!  
+[📎 Check it out on GitHub →](https://github.com/SAKSHIAGRAWAL836/100-days-of-code-python)
