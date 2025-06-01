@@ -24,7 +24,7 @@ This isn’t just about coding — it’s about **consistency**, **learning**, a
 | Day | Project Name            | 📁 Folder                    | ⭐ Status |
 |-----|--------------------------|------------------------------|-----------|
 | 1   | 🎸 Band Name Generator    | day1/README.md  | ✅ Done    |
-| 2   | 💵 Tip Calculator         | `day02-tip-calculator`       | ✅ Done    |
+| 2   | 💵 Tip Calculator         | `day02-tip-calculator`.day2/README.md       | ✅ Done    |
 | 3   | 🏝️ Treasure Island Game  | `day03-treasure-island`      | ✅ Done    |
 | 4   | ✊ Rock Paper Scissors    | `day04-rock-paper-scissors`  | ✅ Done    |
 | 5   | 🔐 Password Generator     | (./day1)  | ✅ Done    |
